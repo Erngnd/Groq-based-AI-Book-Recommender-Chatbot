@@ -132,9 +132,9 @@ Generates book recommendations based on conversation history.
 
 ## UI Preview
 
-![Chat Interface](ui1.png)
+![UI](ui1.png)
 
-![Book Recommendations](ui2.png)
+![UI2](ui2.png)
 
 ---
 
