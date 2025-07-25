@@ -1,0 +1,1 @@
+This is a placeholder file for books dataset. Recommended dataset is: https://www.kaggle.com/datasets/arnabchaki/goodreads-best-books-ever
